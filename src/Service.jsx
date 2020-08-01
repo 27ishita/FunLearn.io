@@ -15,7 +15,15 @@ const Service = () => {
           <div className="col-10 mx-auto">
             <div className="row gy-4">
               {Data.map((val, ind) => {
-                return <Card key={ind} imgsrc={val.imgsrc} title={val.title} />;
+                return (
+                  <Card
+                    key={ind}
+                    imgsrc={val.imgsrc}
+                    title={val.title}
+                    desc={val.desc}
+                    link={val.link}
+                  />
+                );
               })}
             </div>
           </div>

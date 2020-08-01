@@ -7,7 +7,7 @@ const About = () => {
   return (
     <>
       <Common
-        name="About us"
+        name="About "
         imgsrc={Ab}
         visit="/contact"
         btnname="Contact now"

@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <>
       <Common
-        name="Learn new technologies"
+        name="Learn new technologies with "
         imgsrc={Web}
         visit="/contact"
         btnname="Get Started"
