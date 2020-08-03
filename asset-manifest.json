@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/FunLearn/static/css/main.12bf6a85.chunk.css",
+    "main.js": "/FunLearn/static/js/main.a380b980.chunk.js",
+    "main.js.map": "/FunLearn/static/js/main.a380b980.chunk.js.map",
+    "runtime-main.js": "/FunLearn/static/js/runtime-main.f42b4d9a.js",
+    "runtime-main.js.map": "/FunLearn/static/js/runtime-main.f42b4d9a.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/FunLearn/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.b75145f9.chunk.js": "/FunLearn/static/js/2.b75145f9.chunk.js",
+    "static/js/2.b75145f9.chunk.js.map": "/FunLearn/static/js/2.b75145f9.chunk.js.map",
+    "index.html": "/FunLearn/index.html",
+    "precache-manifest.9b6470f6c7dd70824039bf89604c007d.js": "/FunLearn/precache-manifest.9b6470f6c7dd70824039bf89604c007d.js",
+    "service-worker.js": "/FunLearn/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/FunLearn/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.12bf6a85.chunk.css.map": "/FunLearn/static/css/main.12bf6a85.chunk.css.map",
+    "static/js/2.b75145f9.chunk.js.LICENSE.txt": "/FunLearn/static/js/2.b75145f9.chunk.js.LICENSE.txt",
+    "static/media/about.png": "/FunLearn/static/media/about.d2c57439.png",
+    "static/media/angular.png": "/FunLearn/static/media/angular.bb79a099.png",
+    "static/media/css.png": "/FunLearn/static/media/css.385b1cd1.png",
+    "static/media/javascript.png": "/FunLearn/static/media/javascript.dad093df.png",
+    "static/media/node.png": "/FunLearn/static/media/node.f34a0218.png",
+    "static/media/phaser.png": "/FunLearn/static/media/phaser.89f82635.png",
+    "static/media/react.png": "/FunLearn/static/media/react.61e3d5ce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f42b4d9a.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.b75145f9.chunk.js",
+    "static/css/main.12bf6a85.chunk.css",
+    "static/js/main.a380b980.chunk.js"
+  ]
+}
